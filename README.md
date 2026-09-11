@@ -1,3 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ТВОЙ_ЛОГИН/ТВОЙ_РЕПОЗИТОРИЙ/main/имя_файла.svg" width="100%">
-</p>
+<object data="https://raw.githubusercontent.com/aiturgan866-maker/aiturgan866-maker/main/ИМЯ_ФАЙЛА.svg" type="image/svg+xml" width="100%">
+  <img src="ИМЯ_ФАЙЛА.svg" alt="Profile">
+</object>
