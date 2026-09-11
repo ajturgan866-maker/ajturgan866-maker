@@ -1,3 +1,3 @@
-<object data="https://raw.githubusercontent.com/aiturgan866-maker/aiturgan866-maker/main/ИМЯ_ФАЙЛА.svg" type="image/svg+xml" width="100%">
-  <img src="ИМЯ_ФАЙЛА.svg" alt="Profile">
-</object>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aiturgan866-maker/aiturgan866-maker/main/profile-banner.svg?v=3&refresh=true" alt="Aiturgan - animated banner" width="100%">
+</div>
